@@ -1,0 +1,14 @@
+[
+    {
+        "title": "math",
+        "author": "bilal",
+        "genre": "Fantasy",
+        "year": 1800
+    },
+    {
+        "title": "science",
+        "author": "hamzah",
+        "genre": "Science",
+        "year": 1800
+    }
+]
